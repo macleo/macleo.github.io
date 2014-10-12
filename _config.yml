@@ -18,7 +18,7 @@ rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: http://macleo.github.io/images/shrek.png
-favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
+favicon: http://macleo.github.io/images/bitbug_favicon.ico
 
 # google analytics 设置
 ga:
