@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 回退Mac上用Brew安装的PHP版本
+title: 借用闫肃童鞋的blog啦.
 category: 技术
 tags: [PHP, Mac]
-keywords: PHP,Mac,Brew,旧版本,Version
+keywords: github
 description: 
 ---
 
