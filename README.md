@@ -2,7 +2,7 @@
 
 fork地址：[http://yansu.org](http://yansu.org)
 
-<http://macleo.io>
+<http://macleo.github.io>
 
 ### 安装说明
 
