@@ -5,19 +5,19 @@ markdown: redcarpet
 # 作者信息
 author: 
   name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  email: 52macleo@gmail.com
+  link: http://macleo.github.io
+  weibo: http://weibo.com/
+  github: http://github.com/macleo
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: macleo的博客 
+description: macleo的博客
+url: http://macleo.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://yansu-uploads.stor.sinaapp.com/imgs/gavatar.png
+gavatar: http://macleo.github.io/images/shrek.png
 favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
 
 # google analytics 设置
@@ -27,7 +27,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: macleo
 
 # 主题设置，自动激活某个标签
 active: 技术
