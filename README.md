@@ -1,6 +1,8 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+fork地址：[http://yansu.org](http://yansu.org)
+
+<http://macleo.org>
 
 ### 安装说明
 
